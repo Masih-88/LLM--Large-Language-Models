@@ -1,3 +1,9 @@
+## 🎥 Video Explanation
+
+A detailed video explanation of the Transformer architecture, based on the paper *Attention Is All You Need*.
+
+[▶️ Watch the Transformer Explanation on YouTube](https://www.youtube.com/watch?v=wyiRWlsuwnE)
+
 Attention and Transformer Study Notes
 
 A structured technical study of the Transformer architecture, combining the mathematical foundations, architectural components, computational complexity, and PyTorch implementations behind modern Transformer-based models.
